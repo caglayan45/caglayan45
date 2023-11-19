@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
- I'm computer engineer with a passion for computer science. I'm currently working on Java Spring Boot and Blockchain Technologies.<br>Shoot me an Email or add me on LinkedIn.
+ I'm computer engineer with a passion for computer science.
+ <br>I'm currently working on Java Spring Boot and Blockchain Technologies.
+ <br>Shoot me an Email or add me on LinkedIn.
 
 
 ## 🌐 Socials:
